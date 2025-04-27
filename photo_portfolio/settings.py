@@ -28,7 +28,7 @@ DEBUG = True
 
 
 # ВОТ ЗДЕСЬ ПРОПИСЫВАЕМ ДОМЕН БУДУЩЕГО САЙТА
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
 
 # Application definition

@@ -28,7 +28,7 @@ DEBUG = True
 
 
 # ВОТ ЗДЕСЬ ПРОПИСЫВАЕМ ДОМЕН БУДУЩЕГО САЙТА
-ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app', 'django-hello-world-one-ruby.vercel.app']
 
 
 # Application definition
